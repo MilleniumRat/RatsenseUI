@@ -155,7 +155,6 @@ library.themes = {
         }
     },
     }
-}
 
 local blacklistedKeys = {
     Enum.KeyCode.Unknown,
