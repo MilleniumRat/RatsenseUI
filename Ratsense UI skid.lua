@@ -154,7 +154,7 @@ library.themes = {
             ["Risky Text Enabled"]        = fromrgb(255, 41, 41);
         }
     },
-    }a
+    }
 
 local blacklistedKeys = {
     Enum.KeyCode.Unknown,
